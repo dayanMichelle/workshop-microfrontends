@@ -2,8 +2,6 @@
 
 Este repositorio contiene el material de apoyo para la charla sobre microfrontends presentada por [Dayan Arango](https://github.com/dayanMichelle). El objetivo es explorar los conceptos fundamentales de los microfrontends y cómo implementarlos utilizando diferentes tecnologías y enfoques.
 
-\*\* prueba
-
 ## 📚 Contenido
 
 - Introducción a los microfrontends
