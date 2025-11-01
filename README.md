@@ -2,6 +2,8 @@
 
 Este repositorio contiene el material de apoyo para la charla sobre microfrontends presentada por [Dayan Arango](https://github.com/dayanMichelle). El objetivo es explorar los conceptos fundamentales de los microfrontends y cómo implementarlos utilizando diferentes tecnologías y enfoques.
 
+\*\* prueba
+
 ## 📚 Contenido
 
 - Introducción a los microfrontends
@@ -26,13 +28,18 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
    ```bash
    git clone https://github.com/dayanMichelle/workshop-microfrontends.git
    cd workshop-microfrontends
+   ```
 
 npm install
+
 # o
+
 yarn install
 
 npm start
+
 # o
+
 yarn start
 
 workshop-microfrontends/
